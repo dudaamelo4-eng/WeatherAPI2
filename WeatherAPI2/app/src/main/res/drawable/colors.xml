@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Principais do Fundo -->
+    <color name="bg_blue_top">#0B3A7B</color>
+    <color name="bg_blue_middle">#0D4C9A</color>
+    <color name="bg_blue_bottom">#68A3EB</color>
+
+    <!-- Transparências de Vidro (Glassmorphism) -->
+    <color name="card_bg_glass">#1CFFFFFF</color>
+    <color name="card_border_glass">#33FFFFFF</color>
+    <color name="card_selected_glass">#33FFFFFF</color>
+    <color name="card_selected_border">#66FFFFFF</color>
+
+    <!-- Textos -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_secondary">#99D1FF</color>
+    <color name="text_muted">#B3FFFFFF</color>
+
+    <!-- Barra de Temperatura / UV (Cores do Gradiente) -->
+    <color name="bar_yellow">#FFD54F</color>
+    <color name="bar_orange">#FF8A65</color>
+    <color name="bar_pink">#E91E63</color>
+</resources>
